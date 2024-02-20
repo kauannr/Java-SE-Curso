@@ -1,0 +1,7 @@
+kauan,2545.55
+ana,799.50
+maria,10054.5
+bob,40065
+josé,415.70
+eduardo,6855.10
+felix,544.0
